@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/err_file.png</file>
+        <file>images/in_file.png</file>
+        <file>images/out_file.png</file>
+        <file>images/pipe.png</file>
+        <file>images/process.png</file>
+        <file>images/images/err_file.png</file>
+        <file>images/images/in_file.png</file>
+        <file>images/images/out_file.png</file>
+        <file>images/images/pipe.png</file>
+        <file>images/images/process.png</file>
+        <file>images/images/Stderr-Stdout.png</file>
+        <file>images/images/Stdout-Stderr.png</file>
+    </qresource>
+</RCC>
